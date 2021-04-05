@@ -1,4 +1,4 @@
-# Trasportation-optimization-problem
+# Transportation-optimization-problem
 This repository contains the solution for a basic transportation optimization problem in R and Python
 
 The transportation problem is a special type of linear programming problem where the objective consists 
